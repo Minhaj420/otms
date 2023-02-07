@@ -1,0 +1,37 @@
+.text-color{color: #ff4800;}
+.bg-color{background-color: #ff4800;}
+.bg-color:hover
+{
+    background-color: #d93d00;
+}
+.my-nav-link{ font-weight:bold; }
+.my-nav-link:hover
+{
+    background-color: #d93d00;
+    color: white;
+}
+
+.banner-section
+{
+    height: 500px;
+    background-image: url("../image/header.jpg");
+    background-position: center;
+    background-size: cover;
+}
+
+.banner-card
+{
+    font-size: 65px;
+    font-weight: bold;
+
+}
+.form-card
+{
+    padding-top: 90px;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+.my-caption
+{
+    background-color: rgba(0,0,0, 0.5);
+}
